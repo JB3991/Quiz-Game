@@ -1,2 +1,2 @@
-# quiz-game
+# Quiz-Game
 True or False Quiz Game 
